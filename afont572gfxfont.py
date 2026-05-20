@@ -264,7 +264,7 @@ def processArgs(args):
   else:
     fontdefs["static"] = "static inline" + " " # comdefs for header-only inclusion
 
-  # source font chars expected to be from chat code 0 (up to 255)
+  # source font chars expected to be from char code 0 (up to 255)
 
   # may be params someday
   charFrom  = 0   # from char do export
