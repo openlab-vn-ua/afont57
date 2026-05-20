@@ -41,7 +41,7 @@ DEFS_HEAD = """
             BG(b0,0), BG(b1,0), BG(b2,0), BG(b3,0), BG(b4,0), \\
             BG(b0,1), BG(b1,1), BG(b2,1) \\
           ), \\
-        BM(                              BG(b3,1), BG(b4,1), \\
+        BM(                               BG(b3,1), BG(b4,1), \\
             BG(b0,2), BG(b1,2), BG(b2,2), BG(b3,2), BG(b4,2), \\
             BG(b0,3) \\
           ), \\
